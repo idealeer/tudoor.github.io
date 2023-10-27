@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tsuking.net/admin/</loc>
+    <loc>https://tudoor.net/admin/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://tsuking.net/zh/admin/"
+                href="https://tudoor.net/zh/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tsuking.net/admin/"
+                href="https://tudoor.net/admin/"
                 />
   </url><url>
-    <loc>https://tsuking.net/zh/admin/</loc>
+    <loc>https://tudoor.net/zh/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tsuking.net/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://tsuking.net/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tsuking.net/categories/"
-                />
-  </url><url>
-    <loc>https://tsuking.net/publication_types/</loc>
+    <loc>https://tudoor.net/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://tsuking.net/zh/publication_types/"
+                href="https://tudoor.net/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tsuking.net/publication_types/"
+                href="https://tudoor.net/categories/"
                 />
   </url><url>
-    <loc>https://tsuking.net/tags/</loc>
+    <loc>https://tudoor.net/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://tsuking.net/zh/tags/"
+                href="https://tudoor.net/zh/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tsuking.net/tags/"
+                href="https://tudoor.net/publication_types/"
                 />
   </url><url>
-    <loc>https://tsuking.net/</loc>
+    <loc>https://tudoor.net/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://tsuking.net/zh/"
+                href="https://tudoor.net/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tsuking.net/"
+                href="https://tudoor.net/tags/"
                 />
   </url><url>
-    <loc>https://tsuking.net/zh/</loc>
+    <loc>https://tudoor.net/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://tudoor.net/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tudoor.net/"
+                />
+  </url><url>
+    <loc>https://tudoor.net/zh/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
