@@ -6,12 +6,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tudoor.net/admin/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://tudoor.net/zh/admin/"
                 />
   </url><url>
@@ -19,12 +19,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tudoor.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://tudoor.net/zh/categories/"
                 />
   </url><url>
@@ -32,12 +32,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tudoor.net/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://tudoor.net/zh/publication_types/"
                 />
   </url><url>
@@ -45,12 +45,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tudoor.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://tudoor.net/zh/tags/"
                 />
   </url><url>
@@ -58,12 +58,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tudoor.net/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://tudoor.net/zh/"
                 />
   </url>
